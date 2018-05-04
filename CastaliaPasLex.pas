@@ -47,7 +47,7 @@ interface
 
 uses
   //!! pruned uses
-  SysUtils, Classes, Controls, CastaliaPasLexTypes;
+  SysUtils, Classes, CastaliaPasLexTypes;
 
 var
   Identifiers: array[#0..#255] of ByteBool;
